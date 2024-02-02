@@ -1,14 +1,14 @@
-# Hackistica2023
+# Night Canteen Management System
 A food ordering web application to automate the process of ordering by the students, paying for their food where the canteen owners can accept the orders saving a lot of time. 
 
-## Salient features:
+## Salient features -
 1. Customers can select and order dishes from the menu section.
 2. Customers can add and edit their orders in the cart.
 3. The website allows users to pay for the orders online using PayPal and Card. 
 4. Their is an admin login where the admin can accept orders and proceed the payments.
 5. Customers can also track their orders.
 
-## Tech Stacks Used: 
+## Tech Stacks Used -
 1.	JavaScript
 2.	NextJS
 3.	NodeJS
@@ -17,7 +17,7 @@ A food ordering web application to automate the process of ordering by the stude
 6.	MongoDB
 7.	Redux
 
-## Screenshots:
+## Screenshots -
 
 1. Main homepage of website<br><br>
 ![Screenshot (115)](https://user-images.githubusercontent.com/95531637/231441441-a95bfd6f-0ef9-4070-9ba7-4c7ef63aca7a.png)
@@ -46,11 +46,4 @@ A food ordering web application to automate the process of ordering by the stude
 7. Order Tracking section<br><br>
 ![Screenshot (126)](https://user-images.githubusercontent.com/95531637/231443833-3f857b50-3b0f-4752-932c-5143e9d386e0.png)
 <br><br>
-
-
-## Group Members  : 
-                   Aditi Patil (2nd year)
-                   Apurva Kamble (2nd year)
-                   Ayushi Agarwal (2nd year)
-                   Bhumica Gangurde (2nd year)
 
